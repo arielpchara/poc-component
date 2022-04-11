@@ -1,1 +1,1 @@
-export { PocComponent } from './PocComponent'
+export { Poc } from './Poc'
