@@ -1,0 +1,1 @@
+export { PocComponent } from './PocComponent.tsx'
