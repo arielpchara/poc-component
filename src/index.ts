@@ -1,1 +1,1 @@
-export { PocComponent } from './PocComponent.tsx'
+export { PocComponent } from './PocComponent'
