@@ -7,7 +7,7 @@ type Version = 'v1' | 'v2'
 export type VersionsProps = PropsV1 | PropsV2
 
 export type VersionedProps = {
-    version: Version & string
+    version?: Version
 }
 
 // export type PocProps = ( PropsV1 & VersionedProps ) | (PropsV1 & VersionedProps)
