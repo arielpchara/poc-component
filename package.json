@@ -4,8 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc",
-    "prepare": "husky install"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",

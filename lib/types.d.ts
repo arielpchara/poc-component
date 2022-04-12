@@ -4,7 +4,7 @@ import { PocProps as PropsV2 } from './v2/types';
 declare type Version = 'v1' | 'v2';
 export declare type VersionsProps = PropsV1 | PropsV2;
 export declare type VersionedProps = {
-    version: Version & string;
+    version?: Version;
 };
 export declare type ComponentType = React.FC<PropsV1 & VersionedProps> | React.FC<PropsV1 & VersionedProps>;
 export declare type ComponentVersionMap = {
