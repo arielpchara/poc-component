@@ -1,1 +1,1 @@
-{"version":3,"file":"Poc.d.ts","sourceRoot":"","sources":["../src/Poc.tsx"],"names":[],"mappings":"AACA,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAGxC,eAAO,MAAM,GAAG,EAAE,aAEjB,CAAC"}
+{"version":3,"file":"Poc.d.ts","sourceRoot":"","sources":["../src/Poc.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAC1B,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAEnC,eAAO,MAAM,GAAG,EAAE,KAAK,CAAC,EAAE,CAAC,QAAQ,CAIlC,CAAC"}
