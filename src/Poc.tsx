@@ -1,7 +1,8 @@
 import React from "react";
-import { ComponentType } from "./types";
-import { VersionGateway } from "./VersionGateway";
+import { PocProps } from "./types";
 
-export const Poc: ComponentType = ({ version, ...props }) => {
-  return <VersionGateway {...props} version={version} />;
+export const Poc: React.FC<PocProps> = ({name}) => {
+  return (
+    <>Hello {name}</>
+  )
 };
